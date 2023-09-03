@@ -18,7 +18,7 @@
 
 [![Nata-Kalina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nata-Kalina)](https://github.com/Nata-Kalina/github-readme-stats)
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-id/)
+- [LinkedIn](https://www.linkedin.com/in/nataliia-kalinicheva-bb81b21a2/)
 
 ---
 
